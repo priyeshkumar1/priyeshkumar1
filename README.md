@@ -1,4 +1,4 @@
-![logo](https://github.com/priyeshkumar1/priyeshkumar1/blob/main/GITHUB_Banner.png)
+![logo](https://github.com/priyeshkumar1/priyeshkumar1/blob/main/githu.png)
 <h1 align="center">Hi 👋, I'm Priyesh Kumar</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
