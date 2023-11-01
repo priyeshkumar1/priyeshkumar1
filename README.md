@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyesh Kumar</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/ARkcuYFJVesAAAAC/unit-testingnn.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/ARkcuYFJVesAAAAd/unit-testingnn.gif">
 
 - 🌱 I’m currently learning **TestNG, Page Object Model, Postman, Jenkins**
 
